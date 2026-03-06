@@ -17,7 +17,7 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 # 📸 Dashboard Preview
 
-<img width="911" height="469" alt="Coffe Dasboard" src="https://github.com/Mishra025/Coffee-Sales-Analysis/blob/ffbff55edd2a65fab47df7a98c12ccfe4995576a/Screenshot%202026-03-06%20231841.png" />
+<img width="911" height="469" alt="Coffe Dasboard" src="https://github.com/Mishra025/customer-trends-analysis-SQL-Python-PowerBI/blob/a26fb286d7bf47d66c87ad3fa4f47595d8a57689/Screenshot%202026-03-07%20012613.png" />
 
 ## 🛠️ How to Use This Project
 
