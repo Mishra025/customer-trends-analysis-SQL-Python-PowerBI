@@ -1,4 +1,4 @@
-# 👨🏻‍💻Customer Behavior Data Analyst Portfolio Project
+# 👨🏻‍💻Customer Behavior Data Analysis Project
 This project analyzes customer purchasing patterns, demographics, and engagement trends using **SQL**, **Python**, and **Power BI**.  
 It demonstrates an **end-to-end data analytics workflow** — from raw data extraction to interactive dashboard creation — to help businesses make **data-driven decisions**.. The project encompasses all critical stages of data analysis, from data preparation and modeling to insight generation, visualization, and reporting.
 
